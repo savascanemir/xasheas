@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Savaş  
-- ⭐I’m Junior Software Engineer 
-- 👀 I’m interested in C , C# , Java 
+- ⭐I’m Software Engineer 
+- 👀 I’m interested in Web Development
 - 📫 How to reach me : 
 
 - mail: savascanemir@gmail.com
